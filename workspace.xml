@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f9975a0-26a5-434b-99b6-ad071cd9d71e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/language_translator.py" beforeDir="false" afterPath="$PROJECT_DIR$/language_translator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2w2jzQq2BT8fL0FWZIdkovCDleb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.language_translator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BYTAK PATIL BALAJI/OneDrive/Desktop/language-translator&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f9975a0-26a5-434b-99b6-ad071cd9d71e" name="Changes" comment="" />
+      <created>1745246825099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745246825099</updated>
+      <workItem from="1745246826604" duration="1197000" />
+      <workItem from="1745250280633" duration="765000" />
+      <workItem from="1745283479759" duration="616000" />
+      <workItem from="1745284111108" duration="21000" />
+      <workItem from="1745293331468" duration="3856000" />
+      <workItem from="1745297371879" duration="3049000" />
+      <workItem from="1745300750431" duration="2019000" />
+      <workItem from="1745303274068" duration="536000" />
+      <workItem from="1745309336233" duration="6398000" />
+      <workItem from="1745330412253" duration="6207000" />
+      <workItem from="1745416440972" duration="2614000" />
+      <workItem from="1745463630144" duration="220000" />
+      <workItem from="1745464772111" duration="2560000" />
+      <workItem from="1745470883631" duration="8810000" />
+      <workItem from="1745493948716" duration="1042000" />
+      <workItem from="1745514980536" duration="1000000" />
+      <workItem from="1745545258867" duration="1515000" />
+      <workItem from="1745547837156" duration="43000" />
+      <workItem from="1745547934379" duration="1099000" />
+      <workItem from="1745557707976" duration="784000" />
+      <workItem from="1745566455028" duration="811000" />
+      <workItem from="1745567449889" duration="651000" />
+      <workItem from="1745568450098" duration="913000" />
+      <workItem from="1745570630352" duration="3461000" />
+      <workItem from="1745593560789" duration="1241000" />
+      <workItem from="1745594919265" duration="500000" />
+      <workItem from="1745596743664" duration="53000" />
+      <workItem from="1745597267293" duration="4853000" />
+      <workItem from="1745604227276" duration="144000" />
+      <workItem from="1745642195775" duration="95000" />
+      <workItem from="1745644871908" duration="1466000" />
+      <workItem from="1746711370650" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/language_translator$language_translator.coverage" NAME="language_translator Coverage Results" MODIFIED="1745644876442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
